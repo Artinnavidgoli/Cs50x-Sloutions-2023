@@ -1,0 +1,8 @@
+If songs.db contains the top 100 songs of one listener from 2018, how would you characterize their audio aura?
+    energy   valence   danceability
+    -------  --------  ------------
+    0.65906  0.484443  0.71646
+    Answer: Purple: This aura color pairs well with passionate music listeners. Purple auras tune in to get amped up, entertained, and moving while they navigate the twists and turns of their day.
+
+Hypothesize about why the way you’ve calculated this aura might not be very representative of the listener. What better ways of calculating this aura would you propose?
+    Answer: Maybe calculating others columns too, like: speechiness, tempo, and duration_ms. But being honest... Go to a therapist.
