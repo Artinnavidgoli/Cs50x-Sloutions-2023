@@ -29,7 +29,7 @@ discord: Artin#1241
 
 [discord serverfor everyone](https://discord.gg/4gfjaPjv3Q)
 
-[page of progect](https://github.com/Artinnavidgoli/cs50x-sloutions-2023)
+[page of progect](https://github.com/Artinnavidgoli/Cs50x-Sloutions-2023)
 
 [my github page](https://github.com/Artinnavidgoli)
 
