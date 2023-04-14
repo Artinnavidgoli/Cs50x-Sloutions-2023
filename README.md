@@ -19,6 +19,11 @@ if you want you can buy me a coffee (it only works with iranian money)
 
 <a href="https://coffeebede.ir/buycoffee/time.to.code.with.me"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
 
+
+
+*if you like so there is ETH option (0x48d2526357Ee6f39D9C3A6C0724eB70Edb67deEc)*
+
+
 ****
 
 if you want you check my other projects and my youtube chanel 
